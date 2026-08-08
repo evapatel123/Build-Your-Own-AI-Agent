@@ -10,7 +10,7 @@ The best part?
 - No API key required
 - Beginner-friendly
 - Runs perfectly in **Google Colab** or **Jupyter Notebook**
-Whether you're new to AI or just curious about how AI agents work behind the scenes, this project is a great place to start.
+.Whether you're new to AI or just curious about how AI agents work behind the scenes, this project is a great place to start.
 ---
 
 # Features
