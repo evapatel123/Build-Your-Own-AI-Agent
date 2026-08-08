@@ -11,8 +11,7 @@ The best part?
 - Beginner-friendly
 - Runs perfectly in **Google Colab** or **Jupyter Notebook**
 
-Whether you're new to AI or just curious about how AI agents work behind the scenes, this project is a great place to start. For line-by-line explanation, visit 
-https://evapatel123.hashnode.dev/your-basic-ai-agent-in-100-lines-of-python-explained-like-we-re-building-it-together
+Whether you're new to AI or just curious about how AI agents work behind the scenes, this project is a great place to start.
 ---
 
 # Features
@@ -159,7 +158,7 @@ Simply replace the `model_id`, rerun the notebook, and compare how each model re
 
 This repository accompanies my technical article:
 
-> **Build Your First AI Agent in Under 100 Lines of Python (Explained Like We're Building It Together)**
+> **Build Your First AI Agent in Under 100 Lines of Python (Explained Like We're Building It Together)**: https://evapatel123.hashnode.dev/your-basic-ai-agent-in-100-lines-of-python-explained-like-we-re-building-it-together
 
 The article walks through the project **line by line**, explaining every piece of code in beginner-friendly language and showing how AI agents actually work behind the scenes.
 
