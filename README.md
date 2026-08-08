@@ -11,8 +11,8 @@ The best part?
 - Beginner-friendly
 - Runs perfectly in **Google Colab** or **Jupyter Notebook**
 
-Whether you're new to AI or just curious about how AI agents work behind the scenes, this project is a great place to start.
-
+Whether you're new to AI or just curious about how AI agents work behind the scenes, this project is a great place to start. For line-by-line explanation, visit 
+https://evapatel123.hashnode.dev/your-basic-ai-agent-in-100-lines-of-python-explained-like-we-re-building-it-together
 ---
 
 # Features
